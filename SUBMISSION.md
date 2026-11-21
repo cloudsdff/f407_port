@@ -2,6 +2,15 @@
 
 > 生成日期：2026-11-21 · 截止：2026-11-30 12:00
 
+## 〇、线上地址
+
+| 项 | 链接 |
+|---|---|
+| 主仓库 | https://github.com/cloudsdff/f103_w1 |
+| 移植仓库 | https://github.com/cloudsdff/f407_port |
+| 演示视频 | https://github.com/cloudsdff/f103_w1/releases/download/v1.0/demo-task01.mp4 |
+| Release 页 | https://github.com/cloudsdff/f103_w1/releases/tag/v1.0 |
+
 ## 一、交付物
 
 | # | 交付物 | 位置 | 状态 |

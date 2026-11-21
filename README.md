@@ -1,5 +1,9 @@
 ﻿# 任务01 Frameworks —— STM32 分层框架
 
+> **仓库地址**：https://github.com/cloudsdff/f103_w1
+> **移植版**：https://github.com/cloudsdff/f407_port
+> **演示视频**：https://github.com/cloudsdff/f103_w1/releases/tag/v1.0
+
 一套 C++17 写的 STM32 三层框架（Application / Module / BSP），
 在 **STM32F103C8T6** 上完成开发与实测，并**零改动业务代码**移植到 **STM32F407VET6**，
 两块板通过 500 kbps CAN 总线双向互通。
