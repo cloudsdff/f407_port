@@ -22,7 +22,7 @@ extern UART_HandleTypeDef huart1;
 namespace common {
 namespace {
 
-constexpr std::size_t kSlotSize = 80;    // 单条日志最大长度（含前缀）
+constexpr std::size_t kSlotSize = 96;    // 单条日志最大长度（含前缀）
 constexpr std::size_t kQueueDepth = 12;   // 8 × 96 = 768 B RAM
 
 osMessageQueueId_t g_queue = nullptr;
